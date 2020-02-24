@@ -4,4 +4,4 @@
 
 ## [CACND Helpful Links (Google Doc)](https://docs.google.com/document/d/1rGqAkd_iE9L1CG27BP8TFZKv6_M3fo22anC8ctJoKdc/edit?usp=sharing)
 
-## [CACND Lab Assignments and Course Module Information - ILT Verona, Italy 2019-12-02 to 05 (Google Sheet)](https://docs.google.com/spreadsheets/d/1z9D03kMwJNYDplR-7KakhNymQhVY36_CUchmmiW_3xU/edit?usp=sharing)
+## [CACND Lab Assignments and Course Module Information - ILT RTP, NC FEB-24 to 27 (Google Sheet)](https://docs.google.com/spreadsheets/d/1GKVtZYxLsAf7l7ivthqrmOTdRCLQEj1tgObR743LomI/edit?usp=sharing)
