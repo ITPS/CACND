@@ -1,4 +1,4 @@
-# CACND Links for ILT Verona, Italy 2019-12-02 to 05
+# CACND Links for ILT RTP, North Carolina FEB-24 to 27
 
 ## [Configuring ACI in the Cisco Nexus Data Center Introduction - Nicholas Riegel (Google Slides)](https://docs.google.com/presentation/d/1qO_39cEhSh3zVkE4vwKYUSctBfs1To7XF66Z5TN4Wy8/edit?usp=sharing)
 
